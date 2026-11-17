@@ -12,11 +12,30 @@ ShadowOS es un proyecto/concepto de plataforma de observación y análisis orien
 ## Idea central
 Reducir carga cognitiva: que la tecnología trabaje la complejidad (datos, señales, escenarios, incertidumbre) para que la persona recupere tiempo y claridad.
 
+## Vista conceptual
+Esquema general del enfoque conceptual de ShadowOS (componentes y flujo de alto nivel):
+
+<p align="center">
+  <img src="assets/diagrams/mermaid-diagram.png" alt="Esquema conceptual de ShadowOS" width="900">
+</p>
+
 ## Conceptos y marco conceptual
 - **Contexto humano claro:** priorizar respuestas entendibles (estado, evidencia, incertidumbre y próxima revisión) antes que métricas crudas.
 - **Evidencia y trazabilidad:** distinguir lo medido, lo inferido y lo hipotético.
 - **Marcos teóricos e hipótesis:** el proyecto explora modelos y marcos de análisis (p. ej. lectura de regímenes, ventanas de observación, escenarios y comparación histórica) como hipótesis en evaluación, no como verdades cerradas.
 - **Motor Schrödinger CPU (conceptual):** componente de cómputo destinado a organizar y contrastar escenarios/estados posibles y procesos de análisis de forma estructurada, apoyando la identificación y comparación de procesos dentro del sistema. *(Descripción conceptual; la implementación y detalles operativos no forman parte de este repositorio público.)*
+
+## Capturas
+Vistas y avances visuales del proyecto (material de presentación, sin exponer la implementación operativa):
+
+<p align="center">
+  <img src="assets/screenshots/Captura%20de%20pantalla_20260928_115701.png" alt="Captura de ShadowOS 1" width="48%">
+  <img src="assets/screenshots/Captura%20de%20pantalla_20261001_225030.png" alt="Captura de ShadowOS 2" width="48%">
+</p>
+<p align="center">
+  <img src="assets/screenshots/Captura%20de%20pantalla_20261008_005837.png" alt="Captura de ShadowOS 3" width="48%">
+  <img src="assets/screenshots/IMG_7096.PNG" alt="Captura de ShadowOS 4" width="48%">
+</p>
 
 ## Estado del proyecto
 Proyecto en evolución (investigación/prototipado conceptual). Este repositorio es una **vitrina pública** del concepto, la visión y el trabajo conceptual/matemático — no incluye el sistema completo ni su implementación operativa.
@@ -33,7 +52,7 @@ Parte de la exploración conceptual de ShadowOS —en particular la forma de pen
 
 ## Apoya el proyecto
 Si te interesa la visión y quieres apoyar la creación de infraestructura (servidor para alojar y continuar el trabajo), puedes hacerlo aquí:
-- **Donaciones:** _[próximamente: enlace de apoyo/donación]_
+- **Donaciones:** [link.mercadopago.com.mx/gatohacklabs](https://link.mercadopago.com.mx/gatohacklabs)
 
 Tu apoyo ayuda a sostener tiempo de desarrollo, experimentación e infraestructura.
 
@@ -42,3 +61,4 @@ Contenido informativo y de investigación. No constituye asesoría financiera, r
 
 ## Autor
 **GatoHack13** — ShadowOS / LuisLab (concepto y visión).
+
