@@ -21,6 +21,16 @@ Reducir carga cognitiva: que la tecnología trabaje la complejidad (datos, seña
 ## Estado del proyecto
 Proyecto en evolución (investigación/prototipado conceptual). Este repositorio es una **vitrina pública** del concepto, la visión y el trabajo conceptual/matemático — no incluye el sistema completo ni su implementación operativa.
 
+## Inspiración y créditos
+Parte de la exploración conceptual de ShadowOS —en particular la forma de pensar la propagación, los procesos y la dinámica más allá de una lectura puramente lineal— se inspiró conceptualmente en el trabajo **NRS / NRS³ (Nava–Robertson–Schrödinger)** de **Eduardo Nava Hernández**.
+
+- **Repositorio:** [naype888-cloud/nava-robertson-schrodinger](https://github.com/naype888-cloud/nava-robertson-schrodinger)
+
+**Alcance de la atribución (importante):**
+- La inspiración es **conceptual y arquitectónica** (p. ej. preguntas sobre localidad, cotas de propagación, geometría tipo cono de luz y velocidad de grupo como marcos para pensar la propagación). En ShadowOS, estas ideas se reinterpretan en un contexto propio de observación y análisis, distinto del dominio físico original.
+- **ShadowOS no aplica la interpretación física de NRS³ a los mercados ni a otros dominios analizados**, ni afirma equivalencia física/matemática directa. Las geometrías, umbrales, hipótesis y afirmaciones propias de ShadowOS deben medirse y validarse de forma independiente.
+- Esta mención **no implica** respaldo, colaboración, afiliación ni autoría por parte de Eduardo Nava Hernández, ni significa que la totalidad del trabajo de ShadowOS esté basada en su matemática. Se reconoce como una fuente de inspiración dentro de un proyecto con desarrollo y objetivos propios.
+
 ## Apoya el proyecto
 Si te interesa la visión y quieres apoyar la creación de infraestructura (servidor para alojar y continuar el trabajo), puedes hacerlo aquí:
 - **Donaciones:** _[próximamente: enlace de apoyo/donación]_
